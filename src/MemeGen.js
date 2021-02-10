@@ -1,3 +1,7 @@
-import React from 'react'
+import React, {Component} from 'react'
+
+class MemeGen extends Component{
+    
+}
 
 export default MemeGen
